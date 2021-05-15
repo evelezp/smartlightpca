@@ -1,5 +1,5 @@
 .jumbotron {
-  background-image: url(https://smartlightpca.herokuapp.com/images/lamparas.jpg); ;
+  background: #532F8C;
   color: white;
   padding-bottom: 80px;
 }
@@ -26,7 +26,7 @@
   background: #B01302;
   border-radius: 50%;
   overflow: hidden;
-  width: 20px;
+  width: 100px;
   height: 100px;
   margin: auto;
   border: 2px solid white;

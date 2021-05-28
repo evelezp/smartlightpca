@@ -33,4 +33,4 @@ $app->get('/consulta', function() use($app) {
 
 
 });
-$app-> run():
+$app-> run();

@@ -1,6 +1,7 @@
 .jumbotron {
-  background: #532F8C;
-  color: white;
+  background-image: url(https://smartlightpca.herokuapp.com/images/Lamparas.jpg);
+  background-repeat: round;
+  color: black;
   padding-bottom: 80px;
 }
 .jumbotron .btn-primary {
@@ -11,9 +12,12 @@
   background: #7646c1;
 }
 .jumbotron p {
-  color: #d9ccee;
+  color: black;
   max-width: 75%;
   margin: 1em auto 2em;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 10px;
+  border-color: white;
 }
 .jumbotron h1 {
   font-size: 40px;
